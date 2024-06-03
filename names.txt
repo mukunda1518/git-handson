@@ -13,3 +13,6 @@ text2
 text3
 
 text4
+
+
+added changes to check the funcationality of git reset command
